@@ -8,7 +8,7 @@
 /* Body Styling */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  background-color: pink; /* Changed background to pink */
   color: #333;
 }
 
